@@ -1,0 +1,22 @@
+.anchor-link {
+  text-decoration: none;
+}
+
+.course-list-item {
+  display: flex;
+  align-items: center;
+  width: 150px;
+  margin-right: 80px;
+  margin-bottom: 50px;
+}
+
+.course-logo {
+  margin-right: 10px;
+}
+
+.course-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
